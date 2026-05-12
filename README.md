@@ -4,6 +4,12 @@ A modern Flutter E-Commerce application that provides a smooth shopping experien
 
 ---
 
+# 📸 App Preview
+
+![Trendo App](assets/ScreenShots/trendo.png)
+
+---
+
 # 📱 Features
 
 ✅ Display products from REST API  
@@ -45,12 +51,3 @@ lib/
 ├── services/
 ├── widgets/
 └── main.dart
-
-
-# 📸 Screenshots
-<p align="center">
-  <img src="[assets/ScreenShots/trendo.png](https://github.com/KyrillosAyman1/Trendo_App/blob/main/assets/ScreenShots/trendo.png?raw=true)" alt="Screenshot 1" width="250"/>
- 
-</p>
-
----
