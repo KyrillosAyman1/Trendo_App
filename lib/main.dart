@@ -22,7 +22,7 @@ class TrendoApp extends StatelessWidget {
       ],
       child: MaterialApp(
         debugShowCheckedModeBanner: false,
-        title: 'Flutter Demo',
+        title: 'Trendo App',
         theme: ThemeData(
           colorScheme: ColorScheme.fromSeed(seedColor: Color(0xff0c396d)),
         ),
