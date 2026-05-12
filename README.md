@@ -45,3 +45,12 @@ lib/
 ├── services/
 ├── widgets/
 └── main.dart
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="assets/ScreenShots/trendo.png" alt="Screenshot 1" width="250"/>
+ 
+</p>
+
+---
