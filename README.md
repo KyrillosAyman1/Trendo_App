@@ -49,7 +49,7 @@ lib/
 
 # 📸 Screenshots
 <p align="center">
-  <img src="assets/ScreenShots/trendo.png" alt="Screenshot 1" width="250"/>
+  <img src="[assets/ScreenShots/trendo.png](https://github.com/KyrillosAyman1/Trendo_App/blob/main/assets/ScreenShots/trendo.png?raw=true)" alt="Screenshot 1" width="250"/>
  
 </p>
 
