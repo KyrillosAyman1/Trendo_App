@@ -46,8 +46,8 @@ lib/
 ├── widgets/
 └── main.dart
 
-## 📸 Screenshots
 
+# 📸 Screenshots
 <p align="center">
   <img src="assets/ScreenShots/trendo.png" alt="Screenshot 1" width="250"/>
  
